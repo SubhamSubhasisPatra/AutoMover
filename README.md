@@ -1,5 +1,5 @@
 # Auto Mover
 
 <description>
-The mover_atomate_file.py wtches your current and desctination directory , if there are any changes happen in the current direcotry 
-then it will move to the destinaation directory and stores them in a categorised manner </description>
+The mover_atomate_file.py watches your current and destination directory, if there are any changes happen in the current directory 
+then it will move to the destination directory and stores them in a categorized manner </description>
